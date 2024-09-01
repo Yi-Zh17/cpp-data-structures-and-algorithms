@@ -87,4 +87,5 @@ int main()
 
     // Should give an error
     stk->push(9);
+    delete stk;
 }
